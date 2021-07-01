@@ -5,7 +5,7 @@ public class ClassA {
 	}
 	
 	public double method() {
-		return 123.1234 + 123;
+		return 123.1234 + 123 + 123;
 	}
 	
 	public ClassA getInstance() {
